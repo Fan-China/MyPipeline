@@ -67,6 +67,5 @@ node('Windows') {
         errorMessage = exception.getMessage()
     }
 
-<<<<<<< HEAD
+
 }
-=======
